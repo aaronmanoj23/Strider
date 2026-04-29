@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "431302090780",
+    "project_id": "stackup-9a0eb",
+    "storage_bucket": "stackup-9a0eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431302090780:android:3386d911c7ecb15a0f7fd9",
+        "android_client_info": {
+          "package_name": "com.aaronmanoj.strider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBedsuTCyUyV5fZBVSux-2s9zOI4-6rCNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431302090780:android:2ced227fe3dc64260f7fd9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBedsuTCyUyV5fZBVSux-2s9zOI4-6rCNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431302090780:android:259893949460a7840f7fd9",
+        "android_client_info": {
+          "package_name": "com.example.stackup_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBedsuTCyUyV5fZBVSux-2s9zOI4-6rCNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
