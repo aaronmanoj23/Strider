@@ -1,16 +1,17 @@
-# flutter_application_1
+# Strider
 
-A new Flutter project.
+A habit tracking app that assigns research-backed dollar values to daily habits, showing users the real financial impact of their choices.
 
-## Getting Started
+## Features
+- Track 6 core habits: Deep Work, Sleep, No Alcohol, Reading, Gym, Meditation
+- Daily earnings tracker ($262/day max value)
+- Wealth screen with millionaire trajectory projection
+- Stats with streaks, completion rate, and monthly calendar
+- Insights with research backing for each habit
+- Firebase Auth + Firestore backend
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+Flutter • Firebase Auth • Cloud Firestore • Dart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Download
+Available on Google Play Store
